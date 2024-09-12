@@ -13,11 +13,9 @@ setup(
   install_requires=[            # I get to this in a second
           'websockets',
           'asyncio',
-          'json',
           'requests',
           'queue',
           'threading',
-          'time',
           'logging'
       ],
   classifiers=[

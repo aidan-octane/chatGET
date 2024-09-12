@@ -1,0 +1,8 @@
+websockets
+asyncio
+json
+requests
+queue
+threading
+time
+logging
