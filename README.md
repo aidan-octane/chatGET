@@ -14,7 +14,7 @@
 1. run_chat_server(broadcaster_id, auth_token, user_id, client_id)
     - Connects to the Twitch API websocket on a thread
 2. get_next_chat()
-    - Returns either "None" (if no more chat activit) or a string containing the next chat in chronological order from the time that run_chat_server was called! 
+    - Returns either "None" (if no more chat activity) or a string containing the next chat in chronological order from the time that run_chat_server was called! 
 
 ## Example Usage
 Here's some example code that will reproduce the contents of a broadcaster's Twitch chat in your console!
